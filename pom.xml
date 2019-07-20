@@ -90,9 +90,9 @@
 
         <!--数据库驱动-->
         <dependency>
-            <groupId>org.mariadb.jdbc</groupId>
-            <artifactId>mariadb-java-client</artifactId>
-            <version>2.3.0</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.33</version>
         </dependency>
 
         <!-- Junit 单元测试-->
