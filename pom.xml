@@ -15,7 +15,7 @@
     <!--版本信息管理-->
     <properties>
         <spring.version>5.1.2.RELEASE</spring.version>
-        <springmvc.version>5.1.2.RELEASE</springmvc.version>
+        <springmvc.version>5.2.20.RELEASE</springmvc.version>
         <jackson.version>2.9.9</jackson.version>
         <!--项目构建编码-->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
